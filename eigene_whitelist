@@ -1,11 +1,14 @@
 # My Adguard Home whitelist
-# Customlist by Kevin
+# Customlist by Quirin
+
 # Instagram
 @@||cdninstagram.com^
 @@||instagram.com^
 @@||instagram.c10r.facebook.com^
+
 # Joyn TV Stream
 @@||yospace.com^
+
 # Google
 @@||0.client-channel.google.com^
 @@||2.android.pool.ntp.org^
@@ -56,24 +59,27 @@
 @@||status.plex.tv^
 @@||tvdb2.plex.tv^
 @@||tvthemes.plexapp.com^
+
 # Github
 @@||github.com^
 @@||github.io^
 @@||raw.githubusercontent.com^
+
 # Cloudflare
 @@||cdn.cloudflare.net^
 @@||cdnjs.cloudflare.com^
+
 # Dropbox
-@@||dl.dropbox.com^
-@@||dl.dropboxusercontent.com^
-@@||ns1.dropbox.com^
-@@||ns2.dropbox.com^
+@@||dropbox.com^
+
 # No-IP.com
 @@||no-ip.com^
+
 # Twitter
 @@||twimg.com^
 @@||twitter.com^
 @@||t.co^
+
 # Akamai Technologies
 @@||akamaihd.net^
 @@||akamaitechnologies.com^
@@ -81,20 +87,28 @@
 @@||widget-cdn.rpxnow.com^
 @@||akamai.net^
 @@||akadns.net^
+
 # Embedly.com
 @@||cdn.embedly.com^
+
 # Giphy.com
 @@||giphy.com^
+
 # Gravatar Image
 @@||gravatar.com^
+
 # Jquery
 @@||jquery.com^
+
 # Aliexpress.com
 @@||login.aliexpress.com^
+
 # Pinterest
 @@||pinterest.com^
+
 # Wikipedia
 @@||wikipedia.org^
+
 # Microsoft
 @@||win10.ipv6.microsoft.com^
 @@||office.com^
@@ -104,13 +118,17 @@
 @@||live.com^
 @@||msftncsi.com^
 @@||ctldl.windowsupdate.com^
+
 # Netflix
 @@||api-global.netflix.com^
 @@||ichnaea.netflix.com^
 @@||appboot.netflix.com^
 @@||secure.netflix.com^
+@@||logs.netflix.com^
+
 # Samsung TV network issue
 @@||cdn.samsungcloudsolution.com^
+
 # Spotify
 @@||open.spotify.com^
 @@||mobile-ap.spotify.com^
@@ -121,6 +139,7 @@
 @@||ap.spotify.com^
 @@||audio-ake.spotify.com.edgesuite.net^
 @@||audio4-ak.spotify.com.edgesuite.net^
+
 # Amazon Prime Video and Amazon CDN
 @@||eu.api.amazonvideo.com^
 @@||device-metrics-us.amazon.com^
@@ -130,10 +149,14 @@
 @@||device-metrics-us-2.amazon.com^
 @@||images-amazon.com^
 @@||amazonaws.com^
+@@||msh.amazon.co.uk^
+@@||api.us-east-1.aiv-delivery.net^
+@@||api.eu-west-1.aiv-delivery.net^
 
 # Amazon Alexa´s und Fire-TV
 @@||a2z.com^
 @@||msh.amazon.com^
+@@||firebase-settings.crashlytics.com^
 
 # Apple
 @@||gdmf.apple.com.akadns.net^
@@ -150,19 +173,24 @@
 @@||np-edge-cdn.itunes-apple.com.akadns.net^
 @@||iadsdk.apple.com.akadns.net^
 @@||play.itunes.apple.com.edgesuite.net^
+
 # Weather
 @@||worldweather.wmo.int^
 @@||yr.no^
+
 # Lets Encrypt
 @@||letsencrypt.org^
+
 # Spiegel.de
 @@||sni.cdn.www.spiegel.de.c.footprint.net^
 @@||spiegel.de^
+
 # Manager Magazin App
 @@||manager-magazin-de.manager-magazin.de^
 @@||cdn1.manager-magazin.de^
 @@||sni.cdn.manager-magazin.de.c.footprint.net^
 @@||a.manager-magazin.de^
+
 # Disney+ Streaming
 @@||cdn.registerdisney.go.com^
 @@||dssott.com^
@@ -177,19 +205,29 @@
 @@||cws-iad1.conviva.com^
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^
 @@||disney.demdex.net^
+
 # ARD German Television
 @@||image.ard.de^
 @@||image-ard-de-cddc.at-o.net^
 @@||daserste.de^
+
 # Firefox Browser
 @@||detectportal.firefox.com^
+
 # Earthquake App
 @@||fe-lb.tranquilli.org^
+
 # Reddit
 @@||reddit.com^
+
 # WhatsApp
 @@||whatsapp.net^
 @@||whatsapp.com^
+
+# Sonstiges
+@@||quality.dpdhl.com^
+@@||sentry.io^
+
 # Bild.de
 @@||code.bildstatic.de^
 @@||script.ioam.de^
@@ -211,22 +249,6 @@
 @@||api.cxense.com^
 
 
-@@||ddownload.com^
-@@||rapidgator.net^
-@@||ip-api.com^
-@@||m.exactag.com^
-@@||clickserve.dartsearch.net^
-@@||ad.doubleclick.net^
-@@||track.webgains.com^
-@@||track.webgains.com^
-@@||amazon.de^
-@@||bit.do^
-@@||apiservices.krxd.net^
-@@||marketing.net.idealo-partner.com^
-@@||s.click.aliexpress.com^
-@@||www.backmarket.de^
-@@||www.tiktok.com^
-@@||www.miweba.de^
 
 #Whitelist some Microsoft Domains for Family Safety 
 @@||activity.windows.com^^
@@ -243,3 +265,4 @@
 @@||mobile\.pipe\.aria\.microsoft\.com^
 @@||v20.events.data.microsoft.com^
 @@||v10.events.data.microsoft.com^
+@@||eu-mobile.events.data.microsoft.com^
