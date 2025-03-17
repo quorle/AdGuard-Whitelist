@@ -190,7 +190,7 @@
 @@||iadsdk.apple.com.akadns.net^
 @@||play.itunes.apple.com.edgesuite.net^
 
-# Weather
+# WWetter
 @@||worldweather.wmo.int^
 @@||yr.no^
 
@@ -207,6 +207,7 @@
 @@||branch.io^
 @@||bugsnag.com^
 @@||1.datadog.pool.ntp.org^
+@@||default.exp-tas.com^
 
 # Manager Magazin App
 @@||manager-magazin-de.manager-magazin.de^
@@ -237,9 +238,6 @@
 # Firefox Browser
 @@||detectportal.firefox.com^
 
-# Earthquake App
-@@||fe-lb.tranquilli.org^
-
 # Reddit
 @@||reddit.com^
 
@@ -249,6 +247,7 @@
 
 # Sky
 @@||skydeutschland.data.adobedc.net^
+@@||api2.amplitude.com^
 
 ## Paramount plus
 @@||paramountplus.com^
@@ -258,27 +257,6 @@
 @@||sentry.io^
 @@||t.uimserv.net^
 @@||aelxvp-skadsdkless.appsflyersdk.com^
-
-# Bild.de
-@@||code.bildstatic.de^
-@@||script.ioam.de^
-@@||www.asadcdn.com^
-@@||rem-track.bild.de^
-@@||acdn.adnxs.com^
-@@||script.ioam.com^
-@@||tags.tiqcdn.com^
-@@||cdn.taboola.com^
-@@||www.asadcdn.com^
-@@||cdn1.smartadserver.com^
-@@||ec-ns.sascdn.com^
-@@||asadcdn.com^
-@@||de.ioam.de^
-@@||json.bild.de^
-@@||tiqcdn.com^
-(^|\.)bild\.de
-(^|\.)bildstatic\.de
-@@||api.cxense.com^
-
 
 
 #Whitelist some Microsoft Domains for Family Safety 
