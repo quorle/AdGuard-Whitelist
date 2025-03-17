@@ -190,7 +190,7 @@
 @@||iadsdk.apple.com.akadns.net^
 @@||play.itunes.apple.com.edgesuite.net^
 
-# WWetter
+# Wetter
 @@||worldweather.wmo.int^
 @@||yr.no^
 
@@ -208,6 +208,7 @@
 @@||bugsnag.com^
 @@||1.datadog.pool.ntp.org^
 @@||default.exp-tas.com^
+@@||app.cakedefi.com^
 
 # Manager Magazin App
 @@||manager-magazin-de.manager-magazin.de^
@@ -252,11 +253,21 @@
 ## Paramount plus
 @@||paramountplus.com^
 
+# Server und Smart-Home
+@@||telemetry.influxdata.com^
+
 # Sonstiges
 @@||quality.dpdhl.com^
 @@||sentry.io^
 @@||t.uimserv.net^
 @@||aelxvp-skadsdkless.appsflyersdk.com^
+@@||addvent.show^
+@@||latoken.com^
+@@||me-client.eservice.emarsys.net^
+@@||in.appcenter.ms^
+@@||emarsys.net^
+@@||cdn.ampproject.org^
+@@||ad.yieldlab.net^
 
 
 #Whitelist some Microsoft Domains for Family Safety 
