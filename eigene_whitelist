@@ -163,6 +163,9 @@
 @@||msh.amazon.com^
 @@||firebase-settings.crashlytics.com^
 
+## Web.de E-mail
+@@||web.de^
+
 # Apple
 @@||gdmf.apple.com.akadns.net^
 @@||apple.com^
@@ -232,6 +235,7 @@
 # Sonstiges
 @@||quality.dpdhl.com^
 @@||sentry.io^
+@@||t.uimserv.net^
 
 # Bild.de
 @@||code.bildstatic.de^
