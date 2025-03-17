@@ -162,10 +162,13 @@
 @@||api.eu-west-1.aiv-delivery.net^
 @@||pixelbox.uimserv.net^
 @@||unagi-eu.amazon.com^
+@@||aan.amazon.de^
+@@||fls-eu.amazon.de^
 
 # Amazon Alexa´s und Fire-TV
 @@||a2z.com^
 @@||msh.amazon.com^
+@@||msh.amazon.de^
 @@||firebase-settings.crashlytics.com^
 
 ## Web.de E-mail
@@ -197,6 +200,13 @@
 # Spiegel.de
 @@||sni.cdn.www.spiegel.de.c.footprint.net^
 @@||spiegel.de^
+
+## Crypto
+@@||bitcoin.com^
+@@||moonpay.com^
+@@||branch.io^
+@@||bugsnag.com^
+@@||1.datadog.pool.ntp.org^
 
 # Manager Magazin App
 @@||manager-magazin-de.manager-magazin.de^
@@ -237,10 +247,17 @@
 @@||whatsapp.net^
 @@||whatsapp.com^
 
+# Sky
+@@||skydeutschland.data.adobedc.net^
+
+## Paramount plus
+@@||paramountplus.com^
+
 # Sonstiges
 @@||quality.dpdhl.com^
 @@||sentry.io^
 @@||t.uimserv.net^
+@@||aelxvp-skadsdkless.appsflyersdk.com^
 
 # Bild.de
 @@||code.bildstatic.de^
