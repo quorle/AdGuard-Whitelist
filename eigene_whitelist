@@ -23,6 +23,7 @@
 @@||redirector.googlevideo.com^
 @@||video-stats.l.google.com^
 @@||gmail.com^
+@@||google.com^
 
 # Youtube
 @@||s.youtube.com^
@@ -32,6 +33,8 @@
 @@||i.ytimg.com^
 @@||i1.ytimg.com^
 @@||s.ytimg.com^
+@@||youtube.com^
+
 # Plex
 @@||app.plex.tv^
 @@||cpms.spop10.ams.plex.bz^
