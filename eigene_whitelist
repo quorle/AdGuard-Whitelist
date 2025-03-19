@@ -30,6 +30,8 @@
 @@||gmail.com^
 @@||google.com^
 @@||googleusercontent.com^
+@@||googleads.g.doubleclick.net^
+@@||www.googletagmanager.com^
 
 ## Unifi
 @@||ui-portal.de^
@@ -256,6 +258,10 @@
 # Server und Smart-Home
 @@||telemetry.influxdata.com^
 
+# Phillips Airfryer + App
+@@||zna90dhwjsxn6thhi-versuni.siteintercept.qualtrics.com^
+@@||ws.batch.com^
+
 # Sonstiges
 @@||quality.dpdhl.com^
 @@||sentry.io^
@@ -268,6 +274,15 @@
 @@||emarsys.net^
 @@||cdn.ampproject.org^
 @@||ad.yieldlab.net^
+@@||rewedigital.sc.omtrdc.net^
+@@||eum.instana.rewe-group.com^
+@@||accounts.doubleclick.net^
+@@||cdns.symplr.de^
+@@||vg08.met.vgwort.de^
+@@||bztld4-cdn-settings.appsflyersdk.com^
+@@||cdn-content.ampproject.org^
+@@||roovza-launches.appsflyersdk.com^
+@@||app-measurement.com^
 
 
 #Whitelist some Microsoft Domains for Family Safety 
