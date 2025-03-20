@@ -34,6 +34,7 @@
 @@||googleads.g.doubleclick.net^
 @@||www.googletagmanager.com^
 @@||edgedl.me.gvt1.com^
+@@||tunnel.googlezip.net^
 
 ## Unifi
 @@||ui-portal.de^
@@ -298,6 +299,7 @@
 @@||cdn-content.ampproject.org^
 @@||roovza-launches.appsflyersdk.com^
 @@||app-measurement.com^
+@@||kika.de^
 
 
 #Whitelist some Microsoft Domains for Family Safety 
