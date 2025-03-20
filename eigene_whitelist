@@ -255,9 +255,16 @@
 ## Paramount plus
 @@||paramountplus.com^
 
-# Server und Smart-Home
+# ----- Server und Smart-Home -----
 @@||telemetry.influxdata.com^
 @@||iobroker.net^
+#Xiaomi und Mi-Home
+@@||cnbj1.fds.api.xiaomi.com^
+@@||tracking.eu.miui.com^
+@@||sis.jpush.io^
+@@||sdkconfig.ad.intl.xiaomi.com^
+@@||h.trace.qq.com^
+
 
 # Phillips Airfryer + App
 @@||zna90dhwjsxn6thhi-versuni.siteintercept.qualtrics.com^
