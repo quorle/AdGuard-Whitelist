@@ -167,6 +167,7 @@
 @@||api.eu-west-1.aiv-delivery.net^
 @@||pixelbox.uimserv.net^
 @@||unagi-eu.amazon.com^
+@@||unagi-na.amazon.com^
 @@||aan.amazon.de^
 @@||fls-eu.amazon.de^
 
@@ -272,6 +273,9 @@
 # Phillips Airfryer + App
 @@||zna90dhwjsxn6thhi-versuni.siteintercept.qualtrics.com^
 @@||ws.batch.com^
+
+# HP
+@@||telemetry.pod6.prod.avatar.ext.hp.com^
 
 # Telekom und Magenta
 @@||tags.tiqcdn.com^
