@@ -32,12 +32,17 @@
 @@||google.de^
 @@||googleusercontent.com^
 @@||googleads.g.doubleclick.net^
-@@||www.googletagmanager.com^
+@@||googletagmanager.com^
 @@||edgedl.me.gvt1.com^
 @@||tunnel.googlezip.net^
+@@||crashlyticsreports-pa.googleapis.com^
+@@||firebaselogging-pa.googleapis.com^
+@@||google-analytics.com^
 
 ## Unifi
 @@||ui-portal.de^
+@@||ping.ui.com^
+@@||trace.svc.ui.com^
 
 # Youtube
 @@||s.youtube.com^
@@ -137,6 +142,9 @@
 @@||appboot.netflix.com^
 @@||secure.netflix.com^
 @@||logs.netflix.com^
+@@||customerevents.netflix.com^
+@@||cdn-0.nflximg.com^
+@@||tp-s.nflximg.net^
 
 # Samsung TV network issue
 @@||cdn.samsungcloudsolution.com^
@@ -168,14 +176,35 @@
 @@||pixelbox.uimserv.net^
 @@||unagi-eu.amazon.com^
 @@||unagi-na.amazon.com^
+@@||unagi.amazon.com^
 @@||aan.amazon.de^
 @@||fls-eu.amazon.de^
+@@||m.media-amazon.com^
+@@||unagi-na.amazon.com^
+@@||kraken-measurements.s3-external-1.amazonaws.com^
+@@||audible.sc.omtrdc.net^
 
 # Amazon Alexa´s und Fire-TV
 @@||a2z.com^
 @@||msh.amazon.com^
 @@||msh.amazon.de^
 @@||firebase-settings.crashlytics.com^
+@@||mas-ext-eu.amazon.com^
+@@||dp-gw-na.amazon.de^
+@@||mas-sdk.amazon.com^
+@@||api.eu.amazonalexa.com^
+@@||api.amazonalexa.com^
+@@||device-messaging-na.amazon.com^
+
+## LG
+@@||ngfts.lge.com^
+@@||eic.service.lgtvcommon.com^
+@@||eic-gfts.lge.com^
+@@||su-ssl.lge.com^
+@@||de.info.lgsmartad.com^
+@@||eic.cdpbeacon.lgtvcommon.com^
+@@||eic.nudge.lgtvcommon.com^
+
 
 ## Web.de E-mail
 @@||web.de^
@@ -199,6 +228,7 @@
 # Wetter
 @@||worldweather.wmo.int^
 @@||yr.no^
+@@||api.weather.com^
 
 # Lets Encrypt
 @@||letsencrypt.org^
@@ -215,6 +245,19 @@
 @@||1.datadog.pool.ntp.org^
 @@||default.exp-tas.com^
 @@||app.cakedefi.com^
+@@||coinminerz.com^
+@@||socketv2.stex.com^
+@@||binance.com^
+@@||poolbinance.com^
+@@||gcpool.eu^
+@@||solo.ckpool.org^
+@@||xrp20coin.com^
+@@||btc20.com^
+@@||bitcointalk.org^
+@@||mining-dutch.nl^
+@@||bitcoin.it^
+@@||zsolo.bid^
+@@||split.io^
 
 # Manager Magazin App
 @@||manager-magazin-de.manager-magazin.de^
@@ -236,6 +279,7 @@
 @@||cws-iad1.conviva.com^
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^
 @@||disney.demdex.net^
+@@||disney.my.sentry.io^
 
 # ARD German Television
 @@||image.ard.de^
@@ -248,9 +292,10 @@
 # Reddit
 @@||reddit.com^
 
-# WhatsApp
+# WhatsApp && Telegram
 @@||whatsapp.net^
 @@||whatsapp.com^
+@@||api.telegram.org^
 
 # Sky
 @@||skydeutschland.data.adobedc.net^
@@ -261,13 +306,20 @@
 
 # ----- Server und Smart-Home -----
 @@||telemetry.influxdata.com^
+@@||dl.influxdata.com^
 @@||iobroker.net^
+@@||deb.nodesource.com^
+@@||_https._tcp.deb.nodesource.com^
+@@||grafana.tt.omtrdc.net^
+@@||o21767.ingest.sentry.io^
+
 #Xiaomi und Mi-Home
 @@||cnbj1.fds.api.xiaomi.com^
 @@||tracking.eu.miui.com^
 @@||sis.jpush.io^
 @@||sdkconfig.ad.intl.xiaomi.com^
 @@||h.trace.qq.com^
+@@||account.xiaomi.com^
 
 
 # Phillips Airfryer + App
@@ -324,6 +376,58 @@
 @@||www.dwin1.com^
 @@||px4.ads.linkedin.com^
 @@||c.pki.goog^
+@@||region1.app-measurement.com^
+@@||beacon.shazam.com^
+@@||freegeoip.net^
+@@||api2.branch.io^
+@@||static.cloudflareinsights.com^
+@@||cdn.outfit7.com^
+@@||apps2.outfit7.com^
+@@||cdn-gcs.outfit7.com^
+@@||events-api-ak.outfit7.com^
+@@||config.ads.vungle.com^
+@@||networksdk.ssacdn.com^
+@@||8kxgam-launches.appsflyersdk.com^
+@@||ymm4wa-launches.appsflyersdk.com^
+@@||cdp.cloud.unity3d.com^
+@@||config.uca.cloud.unity3d.com^
+@@||ms.applvn.com^
+@@||ms.applovin.com^
+@@||assets.adobedtm.com^
+@@||api.eu-west-1.aiv-delivery.net^
+@@||ads.superawesome.tv^
+@@||config.ioam.de^
+@@||api.saasexch.com^
+@@||app-analytics-services.com^
+@@||combine.asnapieu.com^
+@@||region1.app-analytics-services.com^
+@@||remote-data.asnapieu.com^
+@@||de.ioam.de^
+@@||device-api.asnapieu.com^
+@@||secure-eu.nmrodam.com^
+@@||api.onesignal.com^
+@@||infoevent.startappservice.com^
+@@||incoming.telemetry.mozilla.org^
+@@||telemetry-incoming.r53-2.services.mozilla.com^
+@@||lcdn.tsyndicate.com^
+@@||faphouse.com^
+@@||firebase-settings.crashlytics.com^
+@@||auth.split.io^
+@@||api3.branch.io^
+
+## Spiele
+@@||ecsv2.roblox.com^
+@@||ephemeralcounters.api.roblox.com^
+@@||client-telemetry.roblox.com^
+@@||init.supersonicads.com^
+@@||pm-gateway.supersonicads.com^
+@@||outcome-ssp.supersonicads.com^
+@@||check-tcp.rayjump.com^
+@@||lazy-tcp.rayjump.com^
+@@||policy-tcp.rayjump.com^
+@@||configure-tcp.rayjump.com^
+@@||configure-tcp-android.rayjump.com^
+
 
 # eon und Bayernwerk
 @@||sentry.eon.com^
