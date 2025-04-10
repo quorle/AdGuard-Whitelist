@@ -211,8 +211,8 @@
 
 # Apple
 @@||gdmf.apple.com.akadns.net^
-@@||apple.com^
-@@||icloud.com^
+@@||*.apple.com^
+@@||*.icloud.com^
 @@||itunes.com^
 @@||mzstatic.com^
 @@||apple-dns.net^
@@ -435,20 +435,3 @@
 @@||target.eon.de^
 @@||eoncom.tt.omtrdc.net^
 @@||znbsgq9fhdq9ouqji-eon.siteintercept.qualtrics.com^
-
-#Whitelist some Microsoft Domains for Family Safety 
-@@||activity.windows.com^^
-@@||settings-win.data.microsoft.com^
-@@||vortex.data.microsoft.com^
-@@||web.vortex.data.microsoft.com^
-@@||familysafety\.live\.com^
-@@||fss\.live\.com^
-@@||login\.live\.com^
-@@||symbc\.com^
-@@||activity\.windows\.com^
-@@||self\.events\.data\.microsoft\.com^
-@@||settings-win\.data\.microsoft\.com^
-@@||mobile\.pipe\.aria\.microsoft\.com^
-@@||v20.events.data.microsoft.com^
-@@||v10.events.data.microsoft.com^
-@@||eu-mobile.events.data.microsoft.com^
