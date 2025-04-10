@@ -211,8 +211,8 @@
 
 # Apple
 @@||gdmf.apple.com.akadns.net^
-@@||*.apple.com^
-@@||*.icloud.com^
+@@||apple.com^
+@@||icloud.com^
 @@||itunes.com^
 @@||mzstatic.com^
 @@||apple-dns.net^
