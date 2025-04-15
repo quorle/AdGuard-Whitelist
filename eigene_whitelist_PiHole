@@ -414,6 +414,7 @@
 @@||firebase-settings.crashlytics.com^
 @@||auth.split.io^
 @@||api3.branch.io^
+(\.|^)kleinanzeigen\.de$
 
 ## Spiele
 @@||ecsv2.roblox.com^
